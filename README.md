@@ -15,10 +15,10 @@ The main goal is not only to compare predictive performance, but also to evaluat
 ```text
 340W_Final_Paper/
 ├── Credit_Risk_Prediction_Research_Paper.pdf      # Final research paper
-├── credit_risk_replication.py         # Full reproducible ML + XAI pipeline
-├── requirements.txt                   # Python dependencies
-├── README.md                          # Project documentation
-└── .gitignore                         # Ignored files and outputs
+├── credit_risk_replication.py                     # Full reproducible ML + XAI pipeline
+├── requirements.txt                               # Python dependencies
+├── README.md                                      # Project documentation
+└── .gitignore                                     # Ignored files and outputs
 ```
 
 After running the script, the following output files are generated:
