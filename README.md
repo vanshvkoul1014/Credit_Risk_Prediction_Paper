@@ -14,7 +14,7 @@ The main goal is not only to compare predictive performance, but also to evaluat
 
 ```text
 340W_Final_Paper/
-├── 340W_Research_Paper_Final.pdf      # Final research paper
+├── Credit_Risk_Prediction_Research_Paper.pdf      # Final research paper
 ├── credit_risk_replication.py         # Full reproducible ML + XAI pipeline
 ├── requirements.txt                   # Python dependencies
 ├── README.md                          # Project documentation
